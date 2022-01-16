@@ -1,0 +1,118 @@
+body {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  color: #212121;
+}
+a {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+
+header nav a {
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 500;
+  color: #212121;
+  text-decoration: none;
+}
+
+.logo {
+  color: #000000;
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration: none;
+}
+.brand-color {
+  color: #2196f3;
+}
+
+.list-unstyled {
+  list-style: none;
+}
+.hero {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.hero-background {
+  background-color: #2f303a;
+  text-align: center;
+}
+.order-button {
+  color: #ffffff;
+  background: #2196f3;
+  text-align: center;
+}
+.hidden {
+  display: none;
+}
+.skills h3 {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.14;
+  color: #212121;
+  text-transform: uppercase;
+}
+.skills p {
+  font-size: 14px;
+  line-height: 2;
+  color: #757575;
+}
+.offer {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+}
+.colleagues {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.9;
+  text-align: center;
+}
+.address {
+  color: rgba(255, 255, 255, 0.6);
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 2;
+  background: #2f303a;
+}
+
+footer address {
+  font-style: normal;
+  background-color: #2f303a;
+}
+
+footer address a {
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 2;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+button:hover,
+button:active,
+button.active {
+  background: #2196f3;
+  color: #fff;
+}
+.street {
+  color: #fff;
+}
+.portfolio p {
+  font-size: 16px;
+  line-height: 30px;
+  color: #757575;
+}
+
+.portfolio h2 {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  color: #212121;
+}
